@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.py
+!*.md
+!*/
+.DS_Store
+.idea/
